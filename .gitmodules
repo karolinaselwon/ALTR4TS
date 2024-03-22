@@ -1,0 +1,3 @@
+[submodule "ptranking"]
+	path = ptranking
+	url = https://github.com/wildltr/ptranking.git
